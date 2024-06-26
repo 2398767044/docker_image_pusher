@@ -1,7 +1,7 @@
 cloudnas/clouddrive2:latest
 lscr.io/linuxserver/qbittorrent
 xiaoyaliu/alist:hostmode
-#支持私库
+#支持私库1
 jxxghp/moviepilot
 emby/embyserver:4.9.0.26
 #支持指定架构
