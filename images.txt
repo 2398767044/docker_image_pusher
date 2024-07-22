@@ -3,6 +3,6 @@ lscr.io/linuxserver/qbittorrent
 xiaoyaliu/alist:hostmode
 #支持私库1
 jxxghp/moviepilot
-emby/embyserver:4.8.8.0
+emby/embyserver:4.9.0.27
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
