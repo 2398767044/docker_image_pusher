@@ -5,4 +5,4 @@ xiaoyaliu/alist:hostmode
 jxxghp/moviepilot
 emby/embyserver:4.9.0.27
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+xhofe/alist:latest
