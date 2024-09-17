@@ -4,5 +4,5 @@ lscr.io/linuxserver/qbittorrent
 jxxghp/moviepilot
 emby/embyserver:4.9.0.30
 xhofe/alist:latest
-#支持指定架构
+#支持指定架构1
 
