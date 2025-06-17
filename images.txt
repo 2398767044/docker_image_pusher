@@ -1,6 +1,6 @@
 cloudnas/clouddrive2:latest
 lscr.io/linuxserver/qbittorrent
-#支持私库2
+#支持私库23
 jxxghp/moviepilot
 emby/embyserver:latest
 xhofe/alist:latest
