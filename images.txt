@@ -4,5 +4,5 @@ lscr.io/linuxserver/qbittorrent
 jxxghp/moviepilot
 emby/embyserver:latest
 ghcr.io/jellyfin/jellyfin:latest
-#支持指定架构1
+#支持指定架构
 
