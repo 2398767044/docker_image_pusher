@@ -3,6 +3,6 @@ lscr.io/linuxserver/qbittorrent
 #支持私库23
 jxxghp/moviepilot
 emby/embyserver:latest
-jellyfin/jellyfin:latest
+jellyfin/jellyfin:10.11.0-rc3
 #支持指定架构
 
