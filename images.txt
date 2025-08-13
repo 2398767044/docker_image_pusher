@@ -5,5 +5,5 @@ jxxghp/moviepilot
 emby/embyserver:latest
 jellyfin/jellyfin:10.11.0-rc4
 openlistteam/openlist:latest
-#支持指定架构12
+#支持指定架构1
 
