@@ -1,6 +1,6 @@
 cloudnas/clouddrive2:latest
 lscr.io/linuxserver/qbittorrent
-#支持私库25
+#支持私库259
 jxxghp/moviepilot
 emby/embyserver:latest
 jellyfin/jellyfin:10.11.0-rc5
