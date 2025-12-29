@@ -7,3 +7,4 @@ jellyfin/jellyfin:10.11.0-rc5
 openlistteam/openlist:latest
 #支持指定架构153599
 whyour/qinglong:latest
+whyour/qinglong:2.19.2
